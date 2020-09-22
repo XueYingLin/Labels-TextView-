@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Labels (TextView)</string>
+    <string name="long_msg_1">Line1 of long message\nLine2 of long msg\n...\nlast line</string>
+</resources>
